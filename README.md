@@ -1,4 +1,4 @@
-# Products Deduplication Challenge
+# Product Deduplication Challenge
 
 ## English
 
