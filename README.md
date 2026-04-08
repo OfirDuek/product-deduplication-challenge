@@ -3,16 +3,15 @@
 ## English
 
 ### Task Goal
-The task is about finding and unifying duplicate or inconsistent listings that describe the same product.
-The goal of the solution is to group listings that refer to the same product, avoid merging different products by mistake, 
-and finally show the customer the lowest price from all listings linked to that product.
+The task is about finding and unifying duplicate or inconsistent listings that describe the same product.  
+The goal of the solution is to group listings that refer to the same product, avoid merging different products by mistake, and finally show the customer the lowest price from all listings linked to that product.
 
 ### Chosen Approach
-I chose an approach based on text normalization, Hebrea-English term mapping, and comparison of key product details.
-The purpose of this approach is to handle inconsistent product names, detect duplicates carefully, and avoid incorrect mergesbetween products that may look similar but are not the same.
-After grouping the relevant listings, the lowest price is selected from each products group.
+I chose an approach based on text normalization, Hebrew-English term mapping, and comparison of key product details.  
+The purpose of this approach is to handle inconsistent product names, detect duplicates carefully, and avoid incorrect merges between products that may look similar but are not the same.  
+After grouping the relevant listings, the lowest price is selected from each product group.
 
-For more detailes explanation of the solution steps, please see the attached notebook.
+For a more detailed explanation of the solution steps, please see the attached notebook.
 
 
 ## עברית 
